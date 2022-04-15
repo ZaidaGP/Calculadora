@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextoPrincipal">
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="ButtonColor">
+        <item name="android:backgroundTint">@color/teal_200</item>
+    </style>
+    
+    <style name="ButtonSize">
+        <item name="android:layout_weight">800</item>
+    </style>
+</resources>
